@@ -23,13 +23,12 @@ Kowe is a digital wallet that allows you to send and receive money from anyone, 
 
 ## Featured Integrations
 
-- MongoDB
-- Javascript (Node.js)
-- Golang
-- Gin
-- Gorilla Mux
-- S3 || Cloudinary
-- SMTP || Mailgun || Sendgrid
+- PostgreSQL
+- Python
+- Django
+- Docker
+- S3
+- SMTP || AWS SES
 
 🛠️ **API client and query builder** lets you run RESTful API, GraphQL, or database queries within connected datasources.
 
